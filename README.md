@@ -23,7 +23,6 @@ Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Developer Junior:computer:
 
 :rocket:  &nbsp; Estou trabalhando na **Orion Soluções em Gestão**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos
  <br/> :computer: &nbsp; Meus conhecimentos: Java, Objective C, Javascript & IONIC
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e seriados no Netflix
